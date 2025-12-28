@@ -25,7 +25,7 @@ Glitch AI is a terminal-based AI assistant with typing animations and capabiliti
 Run the application using Python:
 
 ```bash
-python glitch_ai.py
+python 2_0.py
 ```
 
 The AI will greet you with an animated logo and then wait for your input. You can ask about programming, request code examples, ask general questions, or perform calculations.
@@ -45,4 +45,5 @@ Type `exit`, `quit`, or `bye` to end the conversation.
 - Built with Python 3
 - No external dependencies required
 - All animations are implemented with native Python functions
+
 - Clean, organized codebase with clear separation of concerns
